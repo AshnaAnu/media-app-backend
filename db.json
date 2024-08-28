@@ -1,0 +1,104 @@
+{
+  "allVideos": [
+    {
+      "id": "41cf",
+      "caption": "CSS Tips",
+      "url": "https://www.codespot.org/assets/css.jpg",
+      "embedLink": "https://www.youtube.com/embed/MSICFljRcb4?si=sKzyiFDZ4xfvPcpT"
+    },
+    {
+      "id": "7378",
+      "caption": "Bootstrap Introduction",
+      "url": "https://th.bing.com/th/id/OIP.mX64NOOqOrUTF0R5AbeQLQAAAA?rs=1&pid=ImgDetMain",
+      "embedLink": "https://www.youtube.com/embed/eow125xV5-c?si=Fzs-9I5outMqF4LP"
+    },
+    {
+      "id": "ace7",
+      "caption": "Web Designing",
+      "url": "https://psdlearning.com/wp-content/uploads/2020/04/2173df74a356e89b40b18897e1b8655d.jpeg",
+      "embedLink": "https://www.youtube.com/embed/j6Ule7GXaRs?si=BD0YEBB34o8-e8nZ"
+    },
+    {
+      "id": "0dc5",
+      "caption": "Figma Introduction",
+      "url": "https://spin.atomicobject.com/wp-content/uploads/figma-logo.png",
+      "embedLink": "https://www.youtube.com/embed/FTFaQWZBqQ8?si=i8wh9f4mMdN1UQ-4"
+    },
+    {
+      "id": "abad",
+      "caption": "Git & Github",
+      "url": "https://static-assets.codecademy.com/assets/course-landing-page/meta/4x3/learn-git.jpg",
+      "embedLink": "https://www.youtube.com/embed/RGOj5yH7evk?si=tuuMkTSe4gerBXkK"
+    },
+    {
+      "id": "2a5b",
+      "caption": "UX Design",
+      "url": "https://cdn.hostadvice.com/2023/05/final-what-is-ux-design-0.png",
+      "embedLink": "https://www.youtube.com/embed/SRec90j6lTY?si=QDK1l1E0wUai9Tr2"
+    },
+    {
+      "id": "d481",
+      "caption": "UX Design",
+      "url": "https://cdn.hostadvice.com/2023/05/final-what-is-ux-design-0.png",
+      "embedLink": "https://www.youtube.com/embed/SRec90j6lTY?si=QDK1l1E0wUai9Tr2"
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": "7a66",
+      "caption": "CSS Tips",
+      "embedLink": "https://www.youtube.com/embed/MSICFljRcb4?si=sKzyiFDZ4xfvPcpT",
+      "timestamp": "08/23/2024, 12:08:20 PM"
+    },
+    {
+      "id": "8724",
+      "caption": "Git & Github",
+      "embedLink": "https://www.youtube.com/embed/RGOj5yH7evk?si=tuuMkTSe4gerBXkK",
+      "timestamp": "08/23/2024, 12:14:58 PM"
+    },
+    {
+      "id": "7b2f",
+      "caption": "Figma Introduction",
+      "embedLink": "https://www.youtube.com/embed/FTFaQWZBqQ8?si=i8wh9f4mMdN1UQ-4",
+      "timestamp": "08/23/2024, 12:15:04 PM"
+    },
+    {
+      "id": "1dfd",
+      "caption": "Learn Reactjs",
+      "embedLink": "https://www.youtube.com/embed/SqcY0GlETPk?si=SChLYz8ptUnnW0Vo",
+      "timestamp": "08/23/2024, 12:15:08 PM"
+    },
+    {
+      "id": "97f0",
+      "caption": "HTML Course",
+      "embedLink": "https://www.youtube.com/embed/qz0aGYrrlhU?si=M04Mis6gbz_LI6NZ",
+      "timestamp": "08/26/2024, 01:58:01 PM"
+    }
+  ],
+  "category": [
+    {
+      "id": "366d",
+      "categoryName": "WEB",
+      "allVideos": [
+        {
+          "id": "ace7",
+          "caption": "Web Designing",
+          "url": "https://psdlearning.com/wp-content/uploads/2020/04/2173df74a356e89b40b18897e1b8655d.jpeg",
+          "embedLink": "https://www.youtube.com/embed/j6Ule7GXaRs?si=BD0YEBB34o8-e8nZ"
+        }
+      ]
+    },
+    {
+      "id": "a232",
+      "categoryName": "Styling",
+      "allVideos": [
+        {
+          "id": "41cf",
+          "caption": "CSS Tips",
+          "url": "https://www.codespot.org/assets/css.jpg",
+          "embedLink": "https://www.youtube.com/embed/MSICFljRcb4?si=sKzyiFDZ4xfvPcpT"
+        }
+      ]
+    }
+  ]
+}
